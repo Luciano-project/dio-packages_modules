@@ -1,23 +1,16 @@
-# package_name
+# Shopping-list
 
 Description. 
 The package shopping-list is used to:
 	
-	- Processing:
-		- Histogram matching
-		- Structural similarity
-		- Resize image
-
-	- Utils:
-		- Read image
-		- Save image
-		- Plot image
-		- Plot plot result
-		- Plot histogram
-
+	- Adiction
+	- Subtract
+	- Exponential
+	- Division
+	
+	
 ## Installation
 
-Use the package manager [pip](https://pip.pypa.io/en/stable/) to install package_name
 
 ```bash
 pip install shopping-list
