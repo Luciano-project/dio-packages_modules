@@ -1,7 +1,7 @@
 # package_name
 
 Description. 
-The package package_name is used to:
+The package shopping-list is used to:
 	
 	- Processing:
 		- Histogram matching
@@ -20,7 +20,7 @@ The package package_name is used to:
 Use the package manager [pip](https://pip.pypa.io/en/stable/) to install package_name
 
 ```bash
-pip install image-processing-package
+pip install shopping-list
 ```
 
 ## Usage

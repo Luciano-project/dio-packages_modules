@@ -1,0 +1,12 @@
+README.md
+setup.py
+shopping-list/__init__.py
+shopping-list/processing/__init__.py
+shopping-list/processing/complement.py
+shopping-list/processing/main.py
+shopping-list/processing/register.py
+shopping_list.egg-info/PKG-INFO
+shopping_list.egg-info/SOURCES.txt
+shopping_list.egg-info/dependency_links.txt
+shopping_list.egg-info/requires.txt
+shopping_list.egg-info/top_level.txt
